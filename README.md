@@ -13,8 +13,8 @@ Additionally, you will need at least one or more Steam accounts, and Steamguard 
 
 ## Installation
 
-1. Download the latest [stable](https://github.com/Wizzardy/dota2/) 
-2. Run `npm install` from your terminal
+1. Download the latest [stable](https://github.com/Wizzardy/dota2/) version.
+2. Run `npm install` from your terminal.
 3.  modify accounts.txt with your account credentials. You may enter multiple accounts.
 
 ## Usage
@@ -23,7 +23,7 @@ Additionally, you will need at least one or more Steam accounts, and Steamguard 
 npm start
 ```
 
-You will be prompted to enter the target player's SteamID64
+You will be prompted to enter the target player's SteamID64.
 
 
 ### Updating Protocol Definitions
