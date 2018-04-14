@@ -1,4 +1,4 @@
-# node-dota2-plgin
+# node-dota2-plugin
 
 A node-steam plugin for commending players in Dota2<br>
 
