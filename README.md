@@ -6,6 +6,9 @@ EMsgGCReportCountsRequest
 EMsgGCSubmitPlayerReport
 
 
+## My official discord is: xc0de#1285
+
+
 ## Requirements
 
 | Prerequisite    | How to check | How to install
