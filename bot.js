@@ -126,13 +126,13 @@
         console.log("[GC - " + account_name + "] Trying to commend the user!");
         var target_account_id = new SteamID(steamID).accountid;
     	
-    	var commend_payload = new Protos.CMsgDOTAReportCountsRequest({
+    	var commend_payload = new Protos.EMsgGCSubmitPlayerReportResponse ({
 
     		flags:3
 		
     	});
     	
-    	var commendProto = new Protos.CMsgDOTAReportCountsRequest({
+    	var commendProto = new Protos.EMsgGCSubmitPlayerReportResponse ({
             accountId: commend_account_id,
             matchId: 8,
     		commendation: commend_payload
