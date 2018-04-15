@@ -139,7 +139,7 @@
         }).toBuffer();
     	
         GC.send({
-            msg: Protos.ECsgoGCMsg.CMsgDOTAReportCountsResponse,
+            msg: Protos.EDOTAGCMsg.CMsgDOTAReportCountsResponse,
             proto: {}
         }, commendProto);
     	console.log("[GC - " + account_name + "] Commendation Sent!");
